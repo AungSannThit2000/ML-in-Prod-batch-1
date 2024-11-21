@@ -8,6 +8,8 @@ seaborn = "*"
 
 [dev-packages]
 seaborn = "*"
+flask = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.12"
